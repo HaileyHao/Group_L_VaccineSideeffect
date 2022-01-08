@@ -1,4 +1,4 @@
-# Visualization of Covid-19 Vaccine Side Effects
+# [Visualization of Covid-19 Vaccine Side Effects](https://rpubs.com/hanyuzhang/757446)
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
@@ -12,8 +12,6 @@ We explored two datasets in this data visualization project -- tweets about the 
 Firstly, we looked into what people talked about when tweet about the Covid-19 vaccine and explored their feelings about it. This would give us some insight into people's general attitudes towards it.           
 Secondly, we focused on the adverse reactions reported from 2020-12-01 to 2021-3-31. The visualizations aimed to provide insights into the demographic features of those reported Covid-19 Vaccine side effects and the common contents of those reports.          
 Altogether, our project aimed to summarized the information in the side effect reports from VAERS as a reference for a better understanding of Covid-19 side effects, as well as formulating plans to promote Covid-19 vaccination.
-
-## [See the Project Presentation Page here](https://rpubs.com/hanyuzhang/757446)
 
 ## Project Workbook
 
