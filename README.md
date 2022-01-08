@@ -10,8 +10,9 @@ Qinyue Hao, Haogeng Liu, Yin Long, Hanyu Zhang
 ## Project Description
 We explored two datasets in this data visualization project -- tweets about the Covid-19 vaccine and the reported side effects cases of the Covid-19 vaccine in the United States. 
 
-Firstly, we looked into what people talked about when tweet about the Covid-19 vaccine and explored their feelings about it. This would give us some insight into people's general attitudes towards it. 
-Secondly, we focused on the adverse reactions reported from 2020-12-01 to 2021-3-31. The visualizations aimed to provide insights into the demographic features of those reported Covid-19 Vaccine side effects and the common contents of those reports. Altogether, our project aimed to summarized the information in the side effect reports as a reference for the better understanding of Covid-19 side effects, as well as formulating plans to promote Covid-19 vaccination.
+Firstly, we looked into what people talked about when tweet about the Covid-19 vaccine and explored their feelings about it. This would give us some insight into people's general attitudes towards it.           
+Secondly, we focused on the adverse reactions reported from 2020-12-01 to 2021-3-31. The visualizations aimed to provide insights into the demographic features of those reported Covid-19 Vaccine side effects and the common contents of those reports.          
+Altogether, our project aimed to summarized the information in the side effect reports from VAERS as a reference for a better understanding of Covid-19 side effects, as well as formulating plans to promote Covid-19 vaccination.
 
 
 ## Project Workbook
