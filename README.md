@@ -96,7 +96,8 @@ The report rate was calculated by dividing the number of cases in the VARES data
 **Source**: 
 - https://covid.cdc.gov/covid-data-tracker/#datatracker-home
 - [the VARES data set](https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions)
-The results of the state elections come from the data provided in the Week 5 lecture of the DV course.
+
+（The results of the state elections come from the data provided in the Week 5 lecture of the DV course）
 
 **Conclusion**:
 The report rate in the northeast and northwest regions is higher than other regions.       
