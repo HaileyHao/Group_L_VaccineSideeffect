@@ -2,8 +2,6 @@
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-[Project Presentation Page](https://rpubs.com/hanyuzhang/757446)
-
 **Team Members (in alphabetical order):**
 Qinyue Hao, Haogeng Liu, Yin Long, Hanyu Zhang
 
@@ -15,6 +13,7 @@ Firstly, we looked into what people talked about when tweet about the Covid-19 v
 Secondly, we focused on the adverse reactions reported from 2020-12-01 to 2021-3-31. The visualizations aimed to provide insights into the demographic features of those reported Covid-19 Vaccine side effects and the common contents of those reports.          
 Altogether, our project aimed to summarized the information in the side effect reports from VAERS as a reference for a better understanding of Covid-19 side effects, as well as formulating plans to promote Covid-19 vaccination.
 
+## [Project Presentation Page](https://rpubs.com/hanyuzhang/757446)
 
 ## Project Workbook
 
