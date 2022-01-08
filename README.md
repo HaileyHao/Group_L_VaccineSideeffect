@@ -2,6 +2,7 @@
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+[Project Presentation Page](https://rpubs.com/hanyuzhang/757446)
 
 **Team Members (in alphabetical order):**
 Qinyue Hao, Haogeng Liu, Yin Long, Hanyu Zhang
