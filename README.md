@@ -82,8 +82,8 @@ bar chart, taking average value for different age group and sex
 #### allocation rate by state          
 This part uses a bar chart and map to show the allocation of vaccines of different brands in different states before 2021-03-31.           
 **Source**:         
-- https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/saz5-9hgg       
-- https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/b7pe-5nws          
+- https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/saz5-9hgg            
+- https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/b7pe-5nws                    
 **Conclusion**:            
 The number of vaccine allocations in each state does not have a brand tendency. In every state, the number of vaccine allocations for the two brands is basically the same.          
 
@@ -94,8 +94,7 @@ The report rate was calculated by dividing the number of cases in the VARES data
 - https://covid.cdc.gov/covid-data-tracker/#datatracker-home        
 - [the VAERS data set](https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions)       
 - [the VAERS official site](https://vaers.hhs.gov/data.html)           
-
-（The results of the state elections come from the data provided in the Week 5 lecture of the DV course）         
+（The results of the state elections come from the data provided in the Week 5 lecture of the DV course）               
 
 **Conclusion**:          
 The report rate in the northeast and northwest regions is higher than other regions.        
